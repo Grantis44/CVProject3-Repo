@@ -1,0 +1,92 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    position: relative;
+    background: #c7efff;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.road img {
+    height: 25vh;
+    width: 200vw;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: 10;
+    animation: moveRight 10s linear infinite 1s;
+}
+
+@keyframes moveRight {
+    100% {
+        transform: translateX(-100vw);
+    }
+}
+
+@keyframes gangstaSuspension {
+    100% {
+        transform: translateY(-0.3vw);
+        }
+    50% {
+        transform: translateY(0.3vw);
+        }
+    0%{
+        transform: translateY(-0.3vw);
+    }
+
+}
+
+.skyline {
+    position: relative;
+    left: 0;
+    top: 0;
+    width: 500vw;
+    display: flex;
+    z-index: 5;
+    animation: moveRight 3s linear infinite 1s;
+    background-position: 0, 0;
+    background-repeat: repeat-x;
+}
+.skyline img {
+    width: 1350px;
+    height: 550px;
+}
+
+.car-body {
+    height: 260px;
+    width: 330px;
+    position: absolute;
+    left: 25vw;
+    bottom: 10vh;
+    z-index: 20;
+    animation: gangstaSuspension 1s linear infinite 1s;
+}
+
+.wheel-1 {
+    height: 60px;
+    position: absolute;
+    left: 373px;
+    top: 480px;
+    z-index: 30;
+    animation:  rotate 0.3s linear infinite 1s;
+}
+
+.wheel-2 {
+    position: absolute;
+    height: 60px;
+    left: 573px;
+    top: 480px;
+    z-index: 30;
+    animation:  rotate 0.3s linear infinite 1s;
+}
+
+@keyframes rotate {
+    100% {
+        transform: rotate(360deg);
+    }
+}
