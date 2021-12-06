@@ -10,12 +10,10 @@
     <div class="scroll-text">
       <h1>Grant Cunningham</h1>
       <h2>My Curriculum Vitae</h2>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad maiores aut cupiditate unde ipsam ut fugit deleniti non autem, ab, tempore ratione quo, nihil delectus sequi incidunt voluptates quis. Expedita!</p>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad maiores aut cupiditate unde ipsam ut fugit deleniti non autem, ab, tempore ratione quo, nihil delectus sequi incidunt voluptates quis. Expedita!</p>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad maiores aut cupiditate unde ipsam ut fugit deleniti non autem, ab, tempore ratione quo, nihil delectus sequi incidunt voluptates quis. Expedita!</p>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad maiores aut cupiditate unde ipsam ut fugit deleniti non autem, ab, tempore ratione quo, nihil delectus sequi incidunt voluptates quis. Expedita!</p>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad maiores aut cupiditate unde ipsam ut fugit deleniti non autem, ab, tempore ratione quo, nihil delectus sequi incidunt voluptates quis. Expedita!</p>
-      <p>About me, the day i loose golf vs Gareth Im a loser</p>
+      <p>Golf: 5 handicap golfer, love playing golf socially.</p>
+      <p>Video Games: Enjoy playing games on console and PC in free time such as Call of Duty, Fortnite, PGA 2k21, FIFA, Star Wars games.</p>
+      <p>Outdoor activities: Hunting, fishing, camping and hiking.</p>
+      <p>Movies and Series: Love all comic book movies and series, avid DC, Marvel and Star Wars fan. </p>
     </div>
     <a href ="index.php">
         <button> Back </button>
