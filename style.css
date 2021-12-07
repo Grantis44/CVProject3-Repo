@@ -22,6 +22,8 @@
     animation: moveRight 10s linear infinite 1s;
 }
 
+
+
 @keyframes moveRight {
     100% {
         transform: translateX(-100vw);
