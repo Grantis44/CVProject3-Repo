@@ -13,7 +13,7 @@
         <div class="road">
             <img src="road.png" alt="">
         </div>
-        <a href ="home.php">
+        <a href ="index.html">
         <button> Back </button>
         </a>
         <div class="skyline">
@@ -27,6 +27,10 @@
             <img src="wheel.png" alt="" class="wheel-1">
             <img src="wheel.png" alt="" class="wheel-2">
         </div>
+        <div class="CV-text">
+            <h2>This is my digital CV</h2>
+            <h2>For More Details Click on a tab above!</h2>
+  </div>
     </div>
 
 </body>
