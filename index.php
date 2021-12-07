@@ -13,8 +13,8 @@
         <div class="road">
             <img src="road.png" alt="">
         </div>
-        <a href ="index1.php">
-        <button> Next Page </button>
+        <a href ="home.php">
+        <button> Back </button>
         </a>
         <div class="skyline">
             <img src="skyline.png" alt="">
